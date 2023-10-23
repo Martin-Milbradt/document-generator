@@ -1,4 +1,4 @@
-invoices pdf/*
-invoices word/*
-contracts.xlsx
+pdf/*
+word/*
+sheet.xlsx
 template.docx
